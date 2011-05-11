@@ -15,7 +15,7 @@
    id="svg3019"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="you-can-read-it-on-wikipedia.svg">
+   sodipodi:docname="read-it-on-wikipedia.svg">
   <defs
      id="defs3021">
     <inkscape:perspective
@@ -123,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -356,17 +356,17 @@
          x="369.51859"
          y="497.18622"
          style="font-size:49.21766281px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-         id="tspan3239">me, read it on</tspan></text>
+         id="tspan3239">me, read it in</tspan></text>
     <text
        id="text3150"
-       y="719.20013"
-       x="368.59897"
-       style="font-size:109.37258148px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       y="706.28851"
+       x="368.59698"
+       style="font-size:104.9233017px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        xml:space="preserve"><tspan
          id="tspan3154"
-         style="font-size:32.81177521px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-         y="719.20013"
-         x="368.59897"
-         sodipodi:role="line">(but give me 5 minutes)</tspan></text>
+         style="font-size:31.47699356px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+         y="706.28851"
+         x="368.59698"
+         sodipodi:role="line">(but give me 15 minutes)</tspan></text>
   </g>
 </svg>
