@@ -13,3 +13,7 @@ With that disclaimer in mind, the following Octocat is licensed under the [Attri
 Under the same license, this one, too:
 
 ![](i-can-haz-pull-request.png?raw=true)
+
+And this one, too:
+
+![](hello-kitty.png?raw=true)
