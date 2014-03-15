@@ -9,3 +9,7 @@ for GitHub.
 With that disclaimer in mind, the following Octocat is licensed under the [Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/3.0/) license:
 
 ![](octocat-e-neuman.png?raw=true)
+
+Under the same license, this one, too:
+
+![](i-can-haz-pull-request.png?raw=true)
