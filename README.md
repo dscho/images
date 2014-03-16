@@ -23,3 +23,7 @@ And this one, too:
 As well as this one:
 
 ![](garfield.png?raw=true)
+
+Or this one:
+
+![](octofelix.png?raw=true)
