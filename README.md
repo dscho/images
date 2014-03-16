@@ -22,7 +22,7 @@ And this one, too:
 
 As well as this one:
 
-![](garfield.png?raw=true)
+![](octofield.png?raw=true)
 
 Or this one:
 
