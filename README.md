@@ -16,7 +16,7 @@ Under the same license, this one, too:
 
 And this one, too:
 
-![](hello-kitty.png?raw=true)
+![](hello-octokitty.png?raw=true)
 
 As well as this one:
 
