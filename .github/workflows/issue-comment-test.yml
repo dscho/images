@@ -11,3 +11,5 @@ jobs:
         run: |
           echo "$JSON"
       - run: echo "$TEST_SECRET"
+        env:
+          TEST_SECRET: ${{ secrets.TEST_SECRET }}
