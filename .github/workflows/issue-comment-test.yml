@@ -1,0 +1,13 @@
+name: React to issue comments
+
+on: issue_comment
+
+jobs:
+  react:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          JSON: ${{ toJSON(github) }}
+        run: |
+          echo "$JSON"
+      - run: echo "$TEST_SECRET"
